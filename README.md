@@ -5,8 +5,26 @@ This is a a sound-sensitive LED bar for earrings. Its 10 RGB LEDs are controlled
 <img src="images/earring.jpg" width=250><img src="images/earring2.jpg" width=250>
 
 ## Equipment
-- Raspberry Pi
+- Raspberry Pi Zero
 - Seeed Studio’s Grove LED bar
 - Microphone (USB, wired)
 - Earring hook
 
+## Hardware Setup
+
+- Connected an LED bar to Raspi
+- Connected a microphone to Raspi
+- Put an earring hook to the LED bar.
+
+## Software Setup
+
+- Wrote a Python program that 
+  - Records ambient sound every 0.1 second with the “pyaudio” module,
+  - Finds the highest amplitude (volume level) in the recorded sound wave, and 
+  - Emits different lights with different lights according to its volume. 
+- Wrote a Python program that flushes LEDs in white before recording ambient sound. 
+- Made a Shortcut app on iPad to run Python code.
+
+## Demo
+
+<img src="images/earring3.jpg" width="500">
