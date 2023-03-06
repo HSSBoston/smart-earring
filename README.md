@@ -28,3 +28,10 @@ This is a a sound-sensitive LED bar for earrings. Its 10 RGB LEDs are controlled
 ## Demo
 
 <img src="images/earring3.jpg" width="500">
+
+https://user-images.githubusercontent.com/74394277/223153115-51956d59-aaff-4509-8b5a-2b0eea5d7f91.mp4
+
+https://user-images.githubusercontent.com/74394277/223153477-637d6a36-607b-41d4-b50d-b0a78eb55331.mp4
+
+https://user-images.githubusercontent.com/74394277/223153730-633deb89-b5ff-490f-bf19-26bed7aac50a.mp4
+
